@@ -1,4 +1,9 @@
 # HDNN-ArtifactBrainState
+* Under construction* 
+
+feel free to come back after November 3 !!! Happy Halloween
+
+
 Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding
 
 
