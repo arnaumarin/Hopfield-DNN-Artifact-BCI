@@ -4,9 +4,6 @@
 feel free to come back after November 3 !!! Happy Halloween
 
 
-Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding
-
-
 Please cite as:
 
 Marin-Llobet, A., Manasanch, A., Sanchez-Vives, MV. "Hopfield-Enhanced Deep Neural Networks for
