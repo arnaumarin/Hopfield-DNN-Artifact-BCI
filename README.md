@@ -1,5 +1,5 @@
 # HDNN-ArtifactBrainState
-* Under construction* 
+*** Under construction ***
 
 feel free to come back after November 3 !!! Happy Halloween
 
