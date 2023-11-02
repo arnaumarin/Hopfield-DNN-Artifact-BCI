@@ -11,5 +11,7 @@ Artifact-Resilient Brain State Decoding". NeurIPS 2023 - AMHN workshop.
 
 
 
-Create environment
-conda create --name HDNN --file requirements.txt
+Create environment:
+
+
+$ conda create --name HDNN --file requirements.txt
