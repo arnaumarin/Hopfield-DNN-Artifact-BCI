@@ -394,10 +394,10 @@ def pipeline(subj, num_samples_per_state, image_size, segment_length, err_percen
     #    print(f"Directory {dir_name} already exists.")
 
     # Load the subset data directly
-    subset_data = np.load(f"subset_data_{subj}.npy")
+    subset_data = np.load(f"data/subset_data_{subj}.npy")
     
     # Load the subset metadata directly
-    with open(f"subset_metadata_{subj}.pkl", 'rb') as f:
+    with open(f"data/subset_metadata_{subj}.pkl", 'rb') as f:
         subset_metadata = pickle.load(f)
         subset_states = subset_metadata['GT']
     unique_states = np.unique(subset_states)
@@ -445,10 +445,10 @@ def pipeline_hopfield_rec(subj, num_samples_per_state, image_size, segment_lengt
     #    print(f"Directory {dir_name} already exists.")
 
     # Load the subset data directly
-    subset_data = np.load(f"subset_data_{subj}.npy")
+    subset_data = np.load(f"data/subset_data_{subj}.npy")
     
     # Load the subset metadata directly
-    with open(f"subset_metadata_{subj}.pkl", 'rb') as f:
+    with open(f"data/subset_metadata_{subj}.pkl", 'rb') as f:
         subset_metadata = pickle.load(f)
         subset_states = subset_metadata['GT']
         
@@ -564,10 +564,10 @@ def pipeline_noartifact(subj, num_samples_per_state, image_size, segment_length,
     """
     
     # Load the subset data directly
-    subset_data = np.load(f"subset_data_{subj}.npy")
+    subset_data = np.load(f"data/subset_data_{subj}.npy")
     
     # Load the subset metadata directly
-    with open(f"subset_metadata_{subj}.pkl", 'rb') as f:
+    with open(f"data/subset_metadata_{subj}.pkl", 'rb') as f:
         subset_metadata = pickle.load(f)
         subset_states = subset_metadata['GT']
     
