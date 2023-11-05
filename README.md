@@ -25,3 +25,25 @@ $ conda create --name HDNN python=3.9
 $ conda activate HDNN
 $ conda install tensorflow=2.13.0 numpy=1.24.3 matplotlib=3.5.2 sklearn=1.1.1 seaborn=0.12.2
 $ conda install -c conda-forge jupyterlab
+
+### Usage
+Clone the repository:
+
+bash
+Copy code
+$ git clone https://github.com/your-repository/HDNN-ArtifactBrainState.git
+$ cd HDNN-ArtifactBrainState
+Activate the HDNN environment:
+
+bash
+Copy code
+$ conda activate HDNN
+Launch JupyterLab to access the notebooks:
+
+bash
+Copy code
+$ jupyter lab
+Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the functionalities of the HDNN framework.
+
+Contact
+For any queries or contributions, please open an issue or submit a pull request in this repository.
