@@ -29,20 +29,12 @@ $ conda install -c conda-forge jupyterlab
 ### Usage
 Clone the repository:
 
-bash
-Copy code
+```bash
 $ git clone https://github.com/arnaumarin/HDNN-ArtifactBrainState.git
 $ cd HDNN-ArtifactBrainState
-Activate the HDNN environment:
-
-bash
-Copy code
 $ conda activate HDNN
-Launch JupyterLab to access the notebooks:
-
-bash
-Copy code
 $ jupyter lab
+```
 Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the functionalities of the HDNN framework.
 
 Contact
