@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy code
-$ git clone https://github.com/your-repository/HDNN-ArtifactBrainState.git
+$ git clone https://github.com/arnaumarin/HDNN-ArtifactBrainState.git
 $ cd HDNN-ArtifactBrainState
 Activate the HDNN environment:
 
