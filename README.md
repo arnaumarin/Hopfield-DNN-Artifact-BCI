@@ -39,5 +39,5 @@ $ jupyter lab
 ```
 Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the functionalities of the HDNN framework.
 
-Contact
+## Contact
 For any queries or contributions, please open an issue or submit a pull request in this repository.
