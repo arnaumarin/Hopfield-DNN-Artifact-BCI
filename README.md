@@ -8,25 +8,6 @@ HDNN-ArtifactBrainState is a cutting-edge project that integrates Hopfield netwo
 ArXiv preprint: 
 [ArXiv Paper](https://arxiv.org/abs/2311.03421)
 
-
-
-## Citation
-
-If you found it useful, please consider cite our work as follows:
-
-Marin-Llobet, A., Manasanch, A., Sanchez-Vives, MV. "Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding". Presented at NeurIPS 2023, AMHN Workshop.
-
-Bibtex: 
-```
-@misc{marinllobet2023hopfieldenhanced,
-      title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
-      author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
-      year={2023},
-      eprint={2311.03421},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.NC}
-      }
-```
 ## Getting Started
 
 ### Prerequisites
@@ -57,5 +38,26 @@ $ jupyter lab
 ```
 Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the functionalities of the HDNN framework.
 
+
+## Citation
+
+If you found it useful, please consider cite our work as follows:
+
+Marin-Llobet, A., Manasanch, A., Sanchez-Vives, MV. "Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding". Presented at NeurIPS 2023, AMHN Workshop.
+
+Bibtex: 
+```
+@misc{marinllobet2023hopfieldenhanced,
+      title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
+      author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
+      year={2023},
+      eprint={2311.03421},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC}
+      }
+```
+
 ## Contact
 For any queries or contributions, please open an issue or submit a pull request in this repository.
+
+
