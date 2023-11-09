@@ -1,4 +1,4 @@
-# Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding
+# Hopfield Deep Neural Networks for Artifact preprocessing in Brain State Decoding
 
 ## Overview
 
