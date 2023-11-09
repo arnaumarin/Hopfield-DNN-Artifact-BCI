@@ -14,6 +14,19 @@ ArXiv preprint:
 
 If you found it useful, please consider cite our work as follows:
 
+Bibtex: 
+```bash
+@misc{marinllobet2023hopfieldenhanced,
+      title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
+      author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
+      year={2023},
+      eprint={2311.03421},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC}
+}
+
+```
+
 Marin-Llobet, A., Manasanch, A., Sanchez-Vives, MV. "Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding". Presented at NeurIPS 2023, AMHN Workshop.
 
 ## Getting Started
