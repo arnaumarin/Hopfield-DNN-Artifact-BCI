@@ -15,7 +15,7 @@ ArXiv preprint:
 If you found it useful, please consider cite our work as follows:
 
 Bibtex: 
-```bash
+```
 @misc{marinllobet2023hopfieldenhanced,
       title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
       author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
