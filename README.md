@@ -44,9 +44,9 @@ If you find this paper or implementation useful, please consider citing our pape
 
 ```
 @inproceedings{
-llobet2023hopfieldenhanced,
+marin-llobet2023hopfieldenhanced,
 title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding},
-author={Arnau Marin Llobet and Maria V. Sanchez Vives},
+author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez Vives},
 booktitle={Associative Memory {\&} Hopfield Networks in 2023},
 year={2023},
 url={https://openreview.net/forum?id=M7yGTXajq5}
