@@ -40,20 +40,7 @@ Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the f
 
 
 ## Citation
-If you find this paper or implementation useful, please consider citing our Arxiv paper:
-
-```
-@misc{marinllobet2023hopfieldenhanced,
-      title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
-      author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
-      year={2023},
-      eprint={2311.03421},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.NC}
-      }
-```
-
-And/or the Proceedings:
+If you find this paper or implementation useful, please consider citing our Proceedings:
 
 ```
 @inproceedings{
@@ -64,6 +51,19 @@ booktitle={Associative Memory {\&} Hopfield Networks in 2023},
 year={2023},
 url={https://openreview.net/forum?id=M7yGTXajq5}
 }
+```
+
+And/or the Arxiv paper:
+
+```
+@misc{marinllobet2023hopfieldenhanced,
+      title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding}, 
+      author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez-Vives},
+      year={2023},
+      eprint={2311.03421},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC}
+      }
 ```
 
 ## Contact
