@@ -5,6 +5,9 @@
 HDNN-ArtifactBrainState is a cutting-edge project that integrates Hopfield networks with deep neural networks to enhance brain state decoding, focusing on resilience against artifacts present in anesthesia recordings. This repository houses the code and resources for implementing the HDNN framework described in our recent publication.
 ![HDNN Framework Overview](data/HDNN-pipeline.png)
 
+OpenReview paper: 
+[OpenReview Link](https://openreview.net/forum?id=M7yGTXajq5)
+
 ArXiv preprint: 
 [ArXiv Paper](https://arxiv.org/abs/2311.03421)
 
