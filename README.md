@@ -1,4 +1,4 @@
-# Hopfield Network for Artifact Preprocessing in Brain State Decoding (NeurIPS AMHN 2023)
+# Hopfield Neural Network for brain decoding processing
 
 ## Overview
 
