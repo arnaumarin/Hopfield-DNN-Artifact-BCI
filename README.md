@@ -5,11 +5,12 @@
 HDNN-ArtifactBrainState integrates Hopfield networks with deep neural networks to enhance brain state decoding, focusing on resilience against artifacts present in anesthesia recordings. This repository houses the code and resources for implementing the HDNN framework described in our recent publication.
 ![HDNN Framework Overview](data/HDNN-pipeline.png)
 
+ArXiv preprint: 
+[ArXiv Paper](https://arxiv.org/abs/2311.03421)
+
 OpenReview paper: 
 [OpenReview Link](https://openreview.net/forum?id=M7yGTXajq5)
 
-ArXiv preprint: 
-[ArXiv Paper](https://arxiv.org/abs/2311.03421)
 
 ## Getting Started
 
@@ -43,20 +44,7 @@ Open and run the Demo_Hopfield_CNN.ipynb notebook in JupyterLab to explore the f
 
 
 ## Citation
-If you find this paper or implementation useful, please consider citing our Proceedings:
-
-```
-@inproceedings{
-marin-llobet2023hopfieldenhanced,
-title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding},
-author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez Vives},
-booktitle={Associative Memory {\&} Hopfield Networks in 2023},
-year={2023},
-url={https://openreview.net/forum?id=M7yGTXajq5}
-}
-```
-
-And/or the Arxiv paper:
+If you find this paper or implementation useful, please consider citing our Arxiv paper:
 
 ```
 @misc{marinllobet2023hopfieldenhanced,
@@ -67,6 +55,19 @@ And/or the Arxiv paper:
       archivePrefix={arXiv},
       primaryClass={q-bio.NC}
       }
+```
+
+And/or the Proceedings:
+
+```
+@inproceedings{
+marin-llobet2023hopfieldenhanced,
+title={Hopfield-Enhanced Deep Neural Networks for Artifact-Resilient Brain State Decoding},
+author={Arnau Marin-Llobet and Arnau Manasanch and Maria V. Sanchez Vives},
+booktitle={Associative Memory {\&} Hopfield Networks in 2023},
+year={2023},
+url={https://openreview.net/forum?id=M7yGTXajq5}
+}
 ```
 
 ## Contact
